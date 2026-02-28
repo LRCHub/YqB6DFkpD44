@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Don't Mind Me",
+  "base_artist": "Ayumu Imazu",
+  "createdAt": "2026-02-28T14:47:12.707168Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "don't mind me",
+      "artist": "nothing,nowhere.",
+      "has_synced": true,
+      "path": "select/01_don't_mind_me_nothing,nowhere..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "dont mind me",
+      "artist": "nothing,nowhere.",
+      "has_synced": true,
+      "path": "select/02_dont_mind_me_nothing,nowhere..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Mind Me",
+      "artist": "Walking On Cars",
+      "has_synced": true,
+      "path": "select/03_Don't_Mind_Me_Walking_On_Cars.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Mind Me",
+      "artist": "Jack Savoretti",
+      "has_synced": true,
+      "path": "select/04_Don't_Mind_Me_Jack_Savoretti.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "don't mind me",
+      "artist": "Quadeca",
+      "has_synced": false,
+      "path": "select/05_don't_mind_me_Quadeca.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't mind me",
+      "artist": "Lil Liar feat. Lil Bo Weep",
+      "has_synced": true,
+      "path": "select/06_Don't_mind_me_Lil_Liar_feat._Lil_Bo_Weep.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't mind me",
+      "artist": "Lil Liar/Lil Bo Weep",
+      "has_synced": true,
+      "path": "select/07_Don't_mind_me_Lil_Liar_Lil_Bo_Weep.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Mind Me",
+      "artist": "Stiff Little Fingers",
+      "has_synced": false,
+      "path": "select/08_Don't_Mind_Me_Stiff_Little_Fingers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Mind Me",
+      "artist": "Rotimi",
+      "has_synced": true,
+      "path": "select/09_Don't_Mind_Me_Rotimi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Mind Me",
+      "artist": "OST",
+      "has_synced": true,
+      "path": "select/10_Don't_Mind_Me_OST.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Mind Me",
+      "artist": "Roy Woods",
+      "has_synced": false,
+      "path": "select/11_Don't_Mind_Me_Roy_Woods.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Mind Me",
+      "artist": "Mindy Smith",
+      "has_synced": false,
+      "path": "select/12_Don't_Mind_Me_Mindy_Smith.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Mind Me",
+      "artist": "Whxami",
+      "has_synced": false,
+      "path": "select/13_Don't_Mind_Me_Whxami.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Mind Me (feat. 花村想太)",
+      "artist": "Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Mind_Me_(feat._花村想太)_Ayumu_Imazu.txt"
+    }
+  ]
+}
